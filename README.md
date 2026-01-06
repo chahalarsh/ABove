@@ -55,7 +55,7 @@ g++ Above_sourceCode.cpp -mwindows -O2 -o ABove.exe
   - mwindows builds a GUI application (no console window)
   - O2 enables compiler optimizations
 
-### Usage
+## Usage
   1. Run ABove.exe
   2. Focus the window you want to pin
   3. Press Alt + T
