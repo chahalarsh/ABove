@@ -66,7 +66,6 @@ The application runs silently in the background.
 ### Limitations
   - No visual indicator (by design)
   - Hotkey is hardcoded
-  - Does not auto-start with Windows unless manually added to startup
 
 Known limitations are work under progress.
 
@@ -77,6 +76,3 @@ ABove follows a minimalist, single-purpose design:
 - Minimal code
 - Minimal resource usage
 - No unnecessary UI or complexity
-
-
-
