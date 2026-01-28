@@ -3,10 +3,6 @@
 **ABove** is a minimalist Windows utility that lets you pin any window **Always on Top** using a hotkey.  
 It is designed to consume **very few system resources** and run silently in the background.
 
-```
-  This is just a Beta Preview and is not yet a final product.
-```
-
 ## Features
 
 - Toggle **Always on Top** for the currently focused window
@@ -65,7 +61,6 @@ The application runs silently in the background.
 
 ### Limitations
   - No visual indicator (by design)
-  - Hotkey is hardcoded
 
 Known limitations are work under progress.
 

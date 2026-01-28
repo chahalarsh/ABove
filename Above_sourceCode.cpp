@@ -102,5 +102,4 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR pCmdLine,
     UnregisterHotKey(NULL, MY_HOT_KEY);
 
     return 0;
-
 }
