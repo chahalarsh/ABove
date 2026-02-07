@@ -1,4 +1,4 @@
-# ABove (Beta Preview)
+# ABove 
 
 **ABove** is a minimalist Windows utility that lets you pin any window **Always on Top** using a hotkey.  
 It is designed to consume **very few system resources** and run silently in the background.
